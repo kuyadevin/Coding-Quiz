@@ -1,0 +1,28 @@
+.Title{
+    text-align: center;
+    font-size: 100px;
+}
+
+.HighScores {
+    text-align: left;
+    display: inline-block;
+}
+
+.Timer{
+     display:inline-block;
+     float:right;
+}
+
+.Intro{
+    text-align: center;
+}
+
+.startButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    font-size: 40px;
+}

@@ -58,7 +58,4 @@ function startTime(){
 }
 
 startTime();
-
-function questionOne(
-
-)
+// Creating the function to start the game and run the questions

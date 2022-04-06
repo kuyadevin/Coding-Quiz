@@ -1,0 +1,48 @@
+.TitleQ{
+    text-align: center;
+    font-size: 40px;
+}
+
+.choices-container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1;
+    grid-gap: 5px;
+    font-size: 20px;
+    
+
+}
+
+.choices-container:hover{
+    cursor: pointer;
+    box-shadow: grey;
+}
+
+#choiceA{
+    color:white;
+    border-style: solid;
+    background-color: darkblue;
+    border-radius: 5px;
+}
+
+#choiceB{
+    color:white;
+    border-style: solid;
+    background-color: darkblue;
+    border-radius: 5px;
+}
+
+#choiceC{
+    color:white;
+    border-style: solid;
+    background-color: darkblue;
+    border-radius: 5px;
+}
+
+#choiceD{
+    color:white;
+    border-style: solid;
+    background-color: darkblue;
+    border-radius: 5px;
+}
+

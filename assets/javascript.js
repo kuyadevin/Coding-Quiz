@@ -9,6 +9,14 @@ var answer=0
 
 var questions =[
     {
+        question: "What is the main program we use?",
+        choiceA:"HTML",
+        choiceB:"CSS",
+        choiceC:"Javascript",
+        choiceD: "All of the above",
+        answer:"All of the above"
+    },
+    {
         question:"What is used to affect the basic, artistic elements of a webpage?",
         choiceA:"HTML",
         choiceB:"Javascript",

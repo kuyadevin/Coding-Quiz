@@ -1,4 +1,9 @@
-# Coding-Quiz
+# Coding-
+
+## Deployed Link
+
+[Devin's Quiz](https://kuyadevin.github.io/Coding-Quiz/)
+
 
 ## About
 For this projection, I was tasked with making a simple coding quiz that invovles a timer.
@@ -17,11 +22,8 @@ For this projection, I was tasked with making a simple coding quiz that invovles
 ## Code Examples
 One of the aspects of the tis project that I am most proud of is the timer. At first I struggled to create it, but go it down eventually. Here is a previerw of the code used for the timer. 
 
-![Code Example](https://github.com/kuyadevin/Coding-Quiz/blob/main/assets/Screenshot%20(18).png)
-
 ## Challenges
 This project was one of the tougher ones I have faced so far. I was having problems with the quiz going from question to question. At the time of writing, I still have not figured out that aspect but plan on fixing.
 
-## Deployed Link
-
-[Devin's Quiz](https://kuyadevin.github.io/Coding-Quiz/)
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

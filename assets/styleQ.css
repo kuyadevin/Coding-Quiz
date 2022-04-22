@@ -18,28 +18,7 @@
     box-shadow: grey;
 }
 
-#choiceA{
-    color:white;
-    border-style: solid;
-    background-color: darkblue;
-    border-radius: 5px;
-}
-
-#choiceB{
-    color:white;
-    border-style: solid;
-    background-color: darkblue;
-    border-radius: 5px;
-}
-
-#choiceC{
-    color:white;
-    border-style: solid;
-    background-color: darkblue;
-    border-radius: 5px;
-}
-
-#choiceD{
+.choice{
     color:white;
     border-style: solid;
     background-color: darkblue;

@@ -25,5 +25,8 @@ One of the aspects of the tis project that I am most proud of is the timer. At f
 ## Challenges
 This project was one of the tougher ones I have faced so far. I was having problems with the quiz going from question to question. At the time of writing, I still have not figured out that aspect but plan on fixing.
 
+## Screenshot 
+[Screenshot](./assets/Screenshot%20(55).png)
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
